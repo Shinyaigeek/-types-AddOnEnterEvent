@@ -1,0 +1,11 @@
+{
+  "name": "@types/add-onevent-for-react",
+  "version": "1.0.0",
+  "description": "\"This is d.ts file for add-onenter-for-react\"",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shinyaigeek <PhilisPaxil@gmail.com> (https://github.com/Shinyaigeek)",
+  "license": "MIT"
+}
